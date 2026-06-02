@@ -27,3 +27,4 @@
 # ==========================================
 # If your scripts are inside a subfolder, uncomment the line below to grant access:
 #!src/
+!examples/*.pdf
